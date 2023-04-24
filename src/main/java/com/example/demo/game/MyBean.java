@@ -1,7 +1,6 @@
-package com.example.demo.context;
+package com.example.demo.game;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 @Component
